@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RUN_SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ftp://webin.ebi.ac.uk/meta/xsd/sra_1_5/SRA.run.xsd">
+ <RUN alias="UPSC-0016-R0001" center_name="UPSC" run_center="FUGU" run_date="2015-04-17T12:00:00">
+  <EXPERIMENT_REF refname="UPSC-0016-E0001"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0016/Ray-Cell-1_S1_L001_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="643889fa425c5a91ee3232f357b56fbe"/>
+    <FILE filename="UPSC-0016/Ray-Cell-1_S1_L001_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="6dbcc237a2946f1eb3248dcc9676572e"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0016-R0002" center_name="UPSC" run_center="FUGU" run_date="2015-04-17T12:00:00">
+  <EXPERIMENT_REF refname="UPSC-0016-E0001"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0016/Ray-Cell-1_S1_L002_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="2735f16744a8c0e5acf8e078d51efa07"/>
+    <FILE filename="UPSC-0016/Ray-Cell-1_S1_L002_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="4a2e1ab8d5d7baff2a6728c06cfe4978"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0016-R0003" center_name="UPSC" run_center="FUGU" run_date="2015-04-17T12:00:00">
+  <EXPERIMENT_REF refname="UPSC-0016-E0001"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0016/Ray-Cell-1_S1_L003_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="313be3b74d8b331e0b5949c17680d5be"/>
+    <FILE filename="UPSC-0016/Ray-Cell-1_S1_L003_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="89cfa10f3a5eb0fca601aba1ea54ac9e"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0016-R0004" center_name="UPSC" run_center="FUGU" run_date="2015-04-17T12:00:00">
+  <EXPERIMENT_REF refname="UPSC-0016-E0001"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0016/Ray-Cell-1_S1_L004_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="cf663288f7a1449fca5639fab06a8ec8"/>
+    <FILE filename="UPSC-0016/Ray-Cell-1_S1_L004_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="3a5f9d594eb39c9894889d23363e5a62"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0016-R0005" center_name="UPSC" run_center="FUGU" run_date="2015-06-09T12:00:00">
+  <EXPERIMENT_REF refname="UPSC-0016-E0002"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0016/S2-Whole-sections-A_S1_L001_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="6195720f5f8882692adb59cd259a7153"/>
+    <FILE filename="UPSC-0016/S2-Whole-sections-A_S1_L001_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="8ec421acf90825781acb296138548dba"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0016-R0006" center_name="UPSC" run_center="FUGU" run_date="2015-06-09T12:00:00">
+  <EXPERIMENT_REF refname="UPSC-0016-E0002"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0016/S2-Whole-sections-A_S1_L002_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="705bce23a482578d0a0a864ce12d71fd"/>
+    <FILE filename="UPSC-0016/S2-Whole-sections-A_S1_L002_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="40b6dbb1741ba6420869873bbbc8d32a"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0016-R0007" center_name="UPSC" run_center="FUGU" run_date="2015-06-09T12:00:00">
+  <EXPERIMENT_REF refname="UPSC-0016-E0002"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0016/S2-Whole-sections-A_S1_L003_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="7c8a91499f416dea583d6de6c03edf0b"/>
+    <FILE filename="UPSC-0016/S2-Whole-sections-A_S1_L003_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="dbe39e2914cab197fd12b7b5e2538434"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0016-R0008" center_name="UPSC" run_center="FUGU" run_date="2015-06-09T12:00:00">
+  <EXPERIMENT_REF refname="UPSC-0016-E0002"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0016/S2-Whole-sections-A_S1_L004_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="031e20a4a367eb29c7c0905bd1076bb7"/>
+    <FILE filename="UPSC-0016/S2-Whole-sections-A_S1_L004_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="5987e4d65aa3eda8ea69139c7c829518"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0016-R0009" center_name="UPSC" run_center="FUGU" run_date="2015-06-05T12:00:00">
+  <EXPERIMENT_REF refname="UPSC-0016-E0003"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0016/S1-Xylem-tracheids_S1_L001_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="5cac62e086e7333ca5168ef708dbcf93"/>
+    <FILE filename="UPSC-0016/S1-Xylem-tracheids_S1_L001_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="837d071c614bbc17b01031a44f57d4e8"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0016-R0010" center_name="UPSC" run_center="FUGU" run_date="2015-06-05T12:00:00">
+  <EXPERIMENT_REF refname="UPSC-0016-E0003"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0016/S1-Xylem-tracheids_S1_L002_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="4342662ae552a4006661e989dc58163b"/>
+    <FILE filename="UPSC-0016/S1-Xylem-tracheids_S1_L002_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="6f3d4f9a6cda2af58353a5b7551d3a36"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0016-R0011" center_name="UPSC" run_center="FUGU" run_date="2015-06-05T12:00:00">
+  <EXPERIMENT_REF refname="UPSC-0016-E0003"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0016/S1-Xylem-tracheids_S1_L003_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="188616ed439babbf8a1c849550f63afa"/>
+    <FILE filename="UPSC-0016/S1-Xylem-tracheids_S1_L003_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="7b0368896b132eff2df8a0a1c49a443e"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0016-R0012" center_name="UPSC" run_center="FUGU" run_date="2015-06-05T12:00:00">
+  <EXPERIMENT_REF refname="UPSC-0016-E0003"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0016/S1-Xylem-tracheids_S1_L004_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="712040f590dc085110d1123828e47227"/>
+    <FILE filename="UPSC-0016/S1-Xylem-tracheids_S1_L004_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="c7c1b26ae818cac664d54c0db662a628"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0016-R0013" center_name="UPSC" run_center="FUGU" run_date="2015-06-05T12:00:00">
+  <EXPERIMENT_REF refname="UPSC-0016-E0004"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0016/S4-Ray-cells_S2_L001_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="10da84897951d9fea40d428c9624faa5"/>
+    <FILE filename="UPSC-0016/S4-Ray-cells_S2_L001_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="faff4f2246e83e08003d47991dcb83d4"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0016-R0014" center_name="UPSC" run_center="FUGU" run_date="2015-06-05T12:00:00">
+  <EXPERIMENT_REF refname="UPSC-0016-E0004"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0016/S4-Ray-cells_S2_L002_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="410a5767a5bd2f37d42dbd8f706fb4e2"/>
+    <FILE filename="UPSC-0016/S4-Ray-cells_S2_L002_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="7d24b1261152ac5ead5e069f7f87ab89"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0016-R0015" center_name="UPSC" run_center="FUGU" run_date="2015-06-05T12:00:00">
+  <EXPERIMENT_REF refname="UPSC-0016-E0004"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0016/S4-Ray-cells_S2_L003_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="2cc5b9a0db36ce878d02f03bc2a0c84e"/>
+    <FILE filename="UPSC-0016/S4-Ray-cells_S2_L003_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="1da1ffe901678e6ffa1613853c700393"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0016-R0016" center_name="UPSC" run_center="FUGU" run_date="2015-06-05T12:00:00">
+  <EXPERIMENT_REF refname="UPSC-0016-E0004"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0016/S4-Ray-cells_S2_L004_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="6f3699780129187b162786ded4d8bae2"/>
+    <FILE filename="UPSC-0016/S4-Ray-cells_S2_L004_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="7e298750ab56bec3712766fde0fdc775"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0016-R0017" center_name="UPSC" run_center="FUGU" run_date="2015-06-09T12:00:00">
+  <EXPERIMENT_REF refname="UPSC-0016-E0005"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0016/S3-Whole-sections-B_S2_L001_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="a1f575c511b7c7e39abc12d112bbb48e"/>
+    <FILE filename="UPSC-0016/S3-Whole-sections-B_S2_L001_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="f13454209e766f1fbada2331322e731f"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0016-R0018" center_name="UPSC" run_center="FUGU" run_date="2015-06-09T12:00:00">
+  <EXPERIMENT_REF refname="UPSC-0016-E0005"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0016/S3-Whole-sections-B_S2_L002_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="0265fd430714a83e80aa7cc78d160612"/>
+    <FILE filename="UPSC-0016/S3-Whole-sections-B_S2_L002_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="8791833be1e33bfff0a06bdac6b1f8f3"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0016-R0019" center_name="UPSC" run_center="FUGU" run_date="2015-06-09T12:00:00">
+  <EXPERIMENT_REF refname="UPSC-0016-E0005"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0016/S3-Whole-sections-B_S2_L003_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="0456aee14eca46028346fcbec79e70e0"/>
+    <FILE filename="UPSC-0016/S3-Whole-sections-B_S2_L003_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="337904a5ad5db189f9a3e968838008af"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0016-R0020" center_name="UPSC" run_center="FUGU" run_date="2015-06-09T12:00:00">
+  <EXPERIMENT_REF refname="UPSC-0016-E0005"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0016/S3-Whole-sections-B_S2_L004_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="72725b8a595c14e4edc0b981e78123e3"/>
+    <FILE filename="UPSC-0016/S3-Whole-sections-B_S2_L004_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="33419d8fe5d481fdaf5598175dee5975"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0016-R0021" center_name="UPSC" run_center="FUGU" run_date="2015-04-17T12:00:00">
+  <EXPERIMENT_REF refname="UPSC-0016-E0006"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0016/Xylem-trach-12-2-15_S2_L001_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="468f0f65e22ef62f73e22c2724be1d99"/>
+    <FILE filename="UPSC-0016/Xylem-trach-12-2-15_S2_L001_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="6b69abfc3b8d846f61883bd1a36ed0f2"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0016-R0022" center_name="UPSC" run_center="FUGU" run_date="2015-04-17T12:00:00">
+  <EXPERIMENT_REF refname="UPSC-0016-E0006"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0016/Xylem-trach-12-2-15_S2_L002_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="7eb78cef523945d1b00fc5ed5e04c966"/>
+    <FILE filename="UPSC-0016/Xylem-trach-12-2-15_S2_L002_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="26a4403e4a723fad246c850a88bf2cce"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0016-R0023" center_name="UPSC" run_center="FUGU" run_date="2015-04-17T12:00:00">
+  <EXPERIMENT_REF refname="UPSC-0016-E0006"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0016/Xylem-trach-12-2-15_S2_L003_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="cb03e341a90683b9bf49206e34cbf334"/>
+    <FILE filename="UPSC-0016/Xylem-trach-12-2-15_S2_L003_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="73a37e0026607959281d4be9253a2830"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0016-R0024" center_name="UPSC" run_center="FUGU" run_date="2015-04-17T12:00:00">
+  <EXPERIMENT_REF refname="UPSC-0016-E0006"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0016/Xylem-trach-12-2-15_S2_L004_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="99291c101f898ecadfdca80f55e4020b"/>
+    <FILE filename="UPSC-0016/Xylem-trach-12-2-15_S2_L004_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="da66862d998f60fc3e39198916a39c08"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+</RUN_SET>

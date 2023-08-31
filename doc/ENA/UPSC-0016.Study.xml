@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STUDY_SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ftp://webin.ebi.ac.uk/meta/xsd/sra_1_5/SRA.study.xsd">
+ <STUDY alias="UPSC-0016" center_name="UPSC">
+  <DESCRIPTOR>
+   <STUDY_TITLE>Are lignin monomers secreted from ray parenchymal cells in lignifying norway spruce xylem?</STUDY_TITLE>
+   <STUDY_TYPE existing_study_type="RNASeq"/>
+   <STUDY_ABSTRACT>In Norway spruce (Picea abies L.Karst.) lignin forms a major part of the xylem cell walls and renders the tracheids water resistant while giving support to the cell walls and the whole tree trunk. In Norway spruce lignin is polymerized mainly of coniferyl alcohol but the origins of this monolignol is not known. In the present investigation we examined the possibility whether coniferyl alcohol is produced in the ray parenchymal cells similarly to that in angiosperms where neighboring cells contribute to biosynthesis of monolignols used for lignin formation in tracheary elements (Pesquet et al. 2013, Smith et al. 2013). Hence, we used Zeiss PALM MicroBeam laser capture microdissection instrument to isolate ray parenchyma from thin tangential cryomicrotome sections (30um) of developing Norway spruce xylem of a mature tree.  Total RNA extracted from the collected material was used for low input sequencing on Illumina platform to reveal any transcripts related to monolignol biosynthesis and secretion. As a control material we used xylem tracheid cells isolated from similar cryomicrotome sections. The deep sequencing protocol gives also information on the mRNA frequency in a particular cell type. The results are mapped to the whole genome sequencing data of Norway spruce to identify the key genes that are active in these tissues during xylem development and to characterize cell type-specific monolignol synthesis and transport.</STUDY_ABSTRACT>
+  </DESCRIPTOR>
+ </STUDY>
+</STUDY_SET>
