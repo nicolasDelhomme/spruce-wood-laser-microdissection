@@ -10,8 +10,9 @@ A comparative transcriptomic study and a single-cell metabolome analysis were co
 
 ## Content
 
+```bash
 |- doc: samples description
 |- pipeline: data preprocessing scripts
 |- src
   |- R: data analyses scripts
-
+```
